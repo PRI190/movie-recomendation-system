@@ -1,0 +1,7 @@
+{
+  "name": "Inclusive-Vision Movie System",
+  "description": "An accessible movie recommendation engine featuring dynamic ranking based on watch behavior, high-contrast visual modes, and a robust voice-command interface for visually impaired users.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
